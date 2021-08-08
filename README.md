@@ -1,4 +1,4 @@
-# Statistics Part 1
+# Statistics Problem 2
 Implement a function that takes a vector of numbers as an input and outputs the values
 needed to plot the boxplot. Specifically, the function should output the 1st quartile (q1), 2nd
 quartile (q2), 3rd quartile (q3), the inter-quartile range, a vector containing the outlier
